@@ -1,4 +1,4 @@
-#Bases de Datos Avanzadas
+# Bases de Datos Avanzadas
 # Laboratorio2 
 
 # Configuración de Redis, MongoDB y Entorno Virtual en Python para Pruebas de Rendimiento
